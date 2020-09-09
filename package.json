@@ -1,0 +1,20 @@
+{
+  "name": "paper-leaf",
+  "version": "1.0.0",
+  "description": "PRIMO'S AND SMELLY\"S BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "PRIMO",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "eslint": "^7.6.0",
+    "git": "^0.1.5",
+    "mime": "^2.4.6",
+    "random-puppy": "^1.1.0",
+    "weather-js": "^2.0.0"
+  }
+}
